@@ -14,5 +14,10 @@ Learning C, C++, Python.
 ## Here are some fun personal projects:
 
 [Pong](https://github.com/bantunesfranco/Pong) : A Pong clone in python using pygame. \
-[Brick Breaker]() : A Brick Breaker clone in python using pygame. \
+[Brick Breaker](https://github.com/bantunesfranco/Brick_Breaker) : A Brick Breaker clone in python using pygame. \
 [Chess Engine](https://github.com/bantunesfranco/pythonchessengine) : A program that calculates the best move for the current position of the board.
+
+
+## Some Other stuff:
+
+[AoC 2022](https://github.com/bantunesfranco/AoC_2022) :  Code submissions for AoC 2022
