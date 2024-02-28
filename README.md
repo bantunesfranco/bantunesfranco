@@ -6,7 +6,9 @@ Learning C, C++, Python.
 ## Here are some Codam projects that might peak your interest:
 
 [So_long](https://github.com/bantunesfranco/so_long) : A small 2D game, using a simple graphics library. \
-[Minishell](https://github.com/bantunesfranco/minishell) : My own shell, based on Bash.
+[Minishell](https://github.com/bantunesfranco/minishell) : My own shell, based on Bash. \
+[Webserv](https://github.com/bantunesfranco/WebServ) : Hosting my own webserver using C++. \
+[Transcendence](https://github.com/bantunesfranco/transcendence) : Play pong with friends using Typescript and Angular.
 
 
 ## Here are some fun personal projects:
